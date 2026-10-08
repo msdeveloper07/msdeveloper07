@@ -1,121 +1,130 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Manpreet Singh - Developer Banner">
+</p>
+
 # 👋 Hi, I'm Manpreet Singh
 
-### Full-Stack Developer | Backend Engineer | Shopify App Developer | AI | AI Automation
+### Laravel Developer | AI Automation Engineer | Shopify App Developer
 
-I build scalable backend systems, REST APIs, Shopify applications, and AI-powered automation workflows that solve real-world business problems.
+I’m a software developer with **7+ years of experience** building scalable web applications, backend systems, REST APIs, SaaS products, and AI-powered business automation solutions.
 
-My core expertise includes **PHP, Laravel, Node.js, Express.js, JavaScript, database design, API development, and third-party integrations**. I also work with AI integrations and workflow automation to help businesses streamline operations and build smarter applications.
+My expertise spans **Laravel, PHP, Node.js, API development and integration, database architecture, AI integration, and Shopify app development**. I help businesses transform ideas into reliable software solutions, integrate third-party platforms, and automate repetitive workflows to improve efficiency and reduce manual work.
 
-* 🔭 **Focus:** Backend Development, REST APIs, Shopify Apps & AI Automation
-* 🛍️ **Shopify:** Custom Apps, Public Apps, Admin API, Webhooks & Integrations
-* 📱 **API Development:** Building and integrating APIs for web and mobile applications
-* 🤖 **Automation:** AI integrations, Make.com workflows & business process automation
+I have developed **10+ Shopify applications** and worked directly with international clients to understand business requirements, deliver technical solutions, and build practical, maintainable applications.
+
+* 🔭 **Currently Focused On:** Backend Engineering, AI Integration & Business Automation
+* 🛠️ **Core Technologies:** Laravel, PHP, Node.js, Express.js & JavaScript
+* 🤖 **AI & Automation:** Make.com, Lovable, Replit & AI-powered workflows
+* 🛍️ **E-commerce:** Shopify Custom Apps, Public Apps, APIs & Webhooks
 * 🗄️ **Databases:** MySQL, MongoDB, PostgreSQL & Supabase
-* 🤝 **Open to:** Freelance projects, full-stack opportunities & technical collaborations
+* 🚀 **Interests:** SaaS Development, System Integration & Scalable Architecture
+* 🤝 **Open To:** Freelance Projects, Remote Opportunities & Technical Collaborations
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 💻 Technical Skills
 
-### 💻 Backend Development
+### Backend Development
 
-* PHP
-* Laravel
-* Node.js
-* Express.js
+* PHP & Laravel
+* Node.js & Express.js
 * RESTful API Development
 * Backend Architecture & Business Logic
 * Authentication & Authorization
-* API Integration & Third-Party Services
+* Third-Party API Integration
+* Existing System Enhancement & Maintenance
 
-### 🎨 Frontend Development
+### AI Integration & Automation
 
-* JavaScript (ES6+)
-* React.js
-* HTML5 & CSS3
-* Frontend-to-Backend API Integration
+* AI API Integration
+* AI-Powered Application Development
+* Business Process Automation
+* Make.com Workflow Automation
+* Lovable & Replit for AI-Assisted Development
+* API-Based Automation & System Connectivity
 
-### 🗄️ Databases & Data Management
-
-* MySQL
-* MongoDB
-* PostgreSQL
-* Supabase
-* Database Design & Schema Optimization
-* Data Modeling & Query Optimization
-
-### 🛍️ Shopify Development
+### Shopify App Development
 
 * Shopify Custom App Development
 * Shopify Public App Development
 * Shopify Admin API Integration
 * Shopify Webhooks & Event-Driven Workflows
-* Shopify App Extensions & Custom Integrations
-* E-commerce Automation & Third-Party Integrations
+* Third-Party Service Integrations
+* E-commerce Automation & Custom Business Logic
 
-### 🤖 AI Integration & Automation
+### Databases & Data Architecture
 
-* AI API Integration
-* AI-Powered Application Features
-* AI Workflow Automation
-* Make.com Automation Scenarios
-* API-Based Workflow Integration
-* Business Process Automation
+* MySQL
+* MongoDB
+* PostgreSQL
+* Supabase
+* Database Design & Schema Planning
+* Query Optimization & Data Modeling
 
-### 🔧 Tools & Development Practices
+### Frontend Development
+
+* JavaScript (ES6+)
+* React.js
+* HTML5 & CSS3
+* Frontend-to-Backend Integration
+
+### Tools & Workflow
 
 * Git & GitHub
-* API Testing & Debugging
-* Postman
-* Webhooks
-* JSON
-* Application Debugging & Maintenance
-* Existing System Integration & Enhancement
+* Postman & API Testing
+* JSON & Webhooks
+* Debugging & Troubleshooting
+* SaaS Application Development
+* AI-Assisted Development Workflows
 
 ---
 
-## 🚀 What I Can Build
+## 🚀 What I Do
 
-* **Backend Applications:** Business logic, database-driven applications, and scalable server-side systems.
-* **REST APIs:** Secure APIs for web apps, mobile apps, and third-party platforms.
-* **API Integrations:** Connect external services and integrate APIs into existing applications.
-* **Shopify Apps:** Custom and public apps, Admin API integrations, webhooks, and e-commerce automation.
-* **AI-Powered Features:** Integrate AI capabilities into existing products and new applications.
-* **Workflow Automation:** Automate repetitive business processes using Make.com, APIs, webhooks, and AI services.
-* **Database Solutions:** Design schemas, manage data, and improve database queries.
-* **Existing System Enhancement:** Debug, refactor, maintain, and extend existing applications.
+**⚙️ Backend & SaaS Development**
 
----
+Build maintainable backend systems, business applications, and SaaS platforms tailored to real-world requirements.
 
-## 💼 Selected Projects
+**🔌 API Development & Integration**
 
-Here are some projects and platforms I've worked on:
+Develop REST APIs for web and mobile applications, integrate external services, and extend existing systems with new functionality.
 
-* 🌐 [JucoPipeline AI](https://jucopipeline.ai/)
-* 🌐 [Frequenters](https://frequenters.com/)
-* 🌐 [CyberPulse360](https://cyberpulse360.com/)
-* 🌐 [Headstones Designer](https://headstonesdesigner.com/)
+**🤖 AI Integration & Automation**
 
-*Note: Some projects may involve client or company-owned code. Public repository access depends on authorization.*
+Connect AI services with applications and create automated workflows using Make.com and API integrations to reduce repetitive tasks.
 
----
+**🛍️ Shopify Applications**
 
-## 📈 My Development Approach
+Develop custom and public Shopify apps, integrate platform APIs, implement webhooks, and automate e-commerce operations.
 
-* Write clean, maintainable, and reusable code.
-* Build APIs with clear contracts and consistent responses.
-* Design database structures around application requirements.
-* Integrate third-party services into existing systems.
-* Focus on reliability, performance, debugging, and long-term maintainability.
-* Collaborate with teams to turn business requirements into working software.
+**🗄️ Database Design**
+
+Design structured data models and database schemas that support application requirements, maintainability, and performance.
+
+**🔧 Existing Application Enhancement**
+
+Debug, refactor, maintain, and extend existing applications while integrating new APIs, services, and business features.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 How I Work
 
-I'm interested in building useful products, solving challenging backend problems, and collaborating on web applications, Shopify solutions, and AI-powered automation.
+* Understand business goals and technical requirements before implementation.
+* Build clean, reusable, and maintainable code.
+* Design reliable APIs and database structures.
+* Integrate third-party platforms and existing systems.
+* Automate repetitive processes using APIs, AI, and workflow tools.
+* Communicate clearly with clients and collaborate to deliver practical solutions.
 
-* 💻 GitHub: [@msdeveloper07](https://github.com/msdeveloper07)
-* 🌐 Portfolio Projects: [JucoPipeline AI](https://jucopipeline.ai/) · [Frequenters](https://frequenters.com/)
+I enjoy solving complex technical problems and turning business ideas into reliable, scalable software.
 
-**Let's build something great!** 🚀
+---
+
+## 📫 Let's Connect
+
+I'm always interested in meaningful projects involving backend development, Shopify applications, SaaS platforms, API integrations, and AI automation.
+
+* 💻 **GitHub:** [@msdeveloper07](https://github.com/msdeveloper07)
+* 🌐 **Project Showcase:** [JucoPipeline AI](https://jucopipeline.ai/) · [Frequenters](https://frequenters.com/)
+
+### 💡 Build Better. Automate Smarter. Scale Faster. 🚀
